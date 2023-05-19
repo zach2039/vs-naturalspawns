@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "naturalspawns",
+  "name": "Natural Spawns",
+  "authors": ["Zach2039"],
+  "description": "Prevents spawns on anything that isn't a natural block.",
+  "version": "1.0.0",
+  "side" : "server",
+  "dependencies": {
+    "game": "1.18.4"
+  }
+}
