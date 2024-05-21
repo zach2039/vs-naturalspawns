@@ -1,0 +1,26 @@
+[
+	{
+		"side": "Server",
+		"file": "game:entities/land/drifer.json",
+		"op": "addmerge",
+		"path": "/attributes/additionalSpawnConstraints",
+		"value": {
+			"canSpawnOn":[
+				"game:sand-*",
+				"game:gravel-*",
+				"game:dirtygravel",
+				"game:sludgygravel",
+				"game:muddygravel",
+				"game:soil-*",
+				"game:forestfloor-*",
+				"game:peat-*",
+				"game:rock-*",
+				"game:crackedrock-*",
+				"game:regolith-*",
+				"game:ore-gem-*",
+				"game:ore-graded-*",
+				"game:ore-ungraded-*"
+			]
+		}
+	}
+]

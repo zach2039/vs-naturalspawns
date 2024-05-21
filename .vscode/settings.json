@@ -1,5 +1,5 @@
 {
-  "dotnet.defaultSolution": "ModTemplate.sln",
+  "dotnet.defaultSolution": "NaturalSpawns.sln",
   "files.associations": {
     "server-*.txt": "log",
     "client-*.txt": "log"
