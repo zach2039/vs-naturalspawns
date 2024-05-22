@@ -18,9 +18,11 @@
 				"game:rock-*",
 				"game:crackedrock-*",
 				"game:regolith-*",
-				"game:ore-gem-*",
-				"game:ore-graded-*",
-				"game:ore-ungraded-*"
+				"game:ore-*",
+				"game:saltpeter-*",
+				"game:looseboulders-*",
+				"game:loosestones-*",
+				"game:looseores-*"
 			]
 		}
 	}
