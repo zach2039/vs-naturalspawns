@@ -5,6 +5,7 @@
 		"op": "addmerge",
 		"path": "/attributes/additionalSpawnConstraints",
 		"value": {
+			"changeTemporalStormSpawnMechanics": true,
 			"canSpawnOn":[
 				"game:sand-*",
 				"game:gravel-*",
