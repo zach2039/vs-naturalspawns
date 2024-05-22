@@ -8,23 +8,24 @@ Overview
 
 Only allows spawns of drifters above natural blocks; blocks are considered natural if their name satisfies any of the filters below:
 
-    sand*
-    gravel*
-    dirtygravel*
-    sludgygravel*
-    muddygravel*
-    soil*
-    forestfloor*
-    peat*
-    rawclay*
-    rock*
-    crackedrock*
-    regolith*
-    ore-gem*
-    ore-graded*
-    ore-ungraded*
+ - `"game:sand-*"`
+ - `"game:gravel-*"`
+ - `"game:dirtygravel"`
+ - `"game:sludgygravel"`
+ - `"game:muddygravel"`
+ - `"game:soil-*"`
+ - `"game:forestfloor-*"`
+ - `"game:peat-*"`
+ - `"game:rock-*"`
+ - `"game:crackedrock-*"`
+ - `"game:regolith-*"`
+ - `"game:ore-*"`
+ - `"game:saltpeter-*"`
+ - `"game:looseboulders-*"`
+ - `"game:loosestones-*"`
+ - `"game:looseores-*`
 
-Might adversely affect dungeon spawns, but keeps helps keep drifters and other mobs out of your builds even if they are unlit.
+Might adversely affect dungeon spawns, but keeps helps keep drifters out of your builds even if they are unlit.
 
 Future Plans
 --------
@@ -34,5 +35,4 @@ Future Plans
 Known Issues
 --------
 
- - Temporal storms use different methods than worldgen or runtime spawn systems to create drifters, so this filtering doesn't work during storms.
-
+ - None, atm. 
