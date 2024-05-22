@@ -6,7 +6,7 @@ Natural Spawns
 Overview
 --------
 
-Only allows spawns of drifters above natural blocks; blocks are considered natural if their name satisfies any of the filters below:
+Only allows spawns of drifters above natural blocks, even during storms; blocks are considered natural if their name satisfies any of the filters below:
 
  - `"game:sand-*"`
  - `"game:gravel-*"`
