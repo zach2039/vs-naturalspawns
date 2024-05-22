@@ -1,7 +1,7 @@
 Natural Spawns
 =================
 
-**Requires [AdditionalSpawnContraints](https://mods.vintagestory.at/additionalspawnconstraints)**
+**Requires [AdditionalSpawnConstraints](https://mods.vintagestory.at/additionalspawnconstraints)**
 
 Overview
 --------
