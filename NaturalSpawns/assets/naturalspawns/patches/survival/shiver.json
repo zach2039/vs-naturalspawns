@@ -1,7 +1,7 @@
 [
 	{
 		"side": "Server",
-		"file": "game:entities/land/drifter.json",
+		"file": "game:entities/land/bowtorn.json",
 		"op": "addmerge",
 		"path": "/attributes/additionalSpawnConstraints",
 		"value": {

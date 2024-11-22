@@ -41,6 +41,8 @@
     <Content Include="assets\**">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Remove="assets\naturalspawns\patches\survival\bowtorn.json" />
+    <None Remove="assets\naturalspawns\patches\survival\shiver.json" />
     <Content Include="modinfo.json">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
