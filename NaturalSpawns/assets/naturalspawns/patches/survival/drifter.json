@@ -6,8 +6,6 @@
 		"path": "/attributes/additionalSpawnConstraints",
 		"value": {
 			"changeTemporalStormSpawnMechanics": true,
-			"minSpawnRegionStability": 1,
-            "maxSpawnRegionStability": 1.5,
 			"canSpawnOn":[
 				"game:sand-*",
 				"game:gravel-*",

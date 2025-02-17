@@ -6,10 +6,10 @@
         "Zach2039"
     ],
     "description": "A mod that only allows spawns of drifters (and similar mobs) on natural blocks (outside of storms); requires AdditionalSpawnConstraints to function",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "dependencies": {
         "game": "*",
-	      "additionalspawnconstraints": "1.0.0"
+	    "additionalspawnconstraints": "1.0.0"
     },
     "Side": "Server",
     "RequiredOnClient": false,
