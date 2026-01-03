@@ -1,7 +1,7 @@
 [
 	{
 		"side": "Server",
-		"file": "game:entities/lore/bowtorn.json",
+		"file": "game:entities/lore/bellmini.json",
 		"op": "addmerge",
 		"path": "/attributes/additionalSpawnConstraints",
 		"value": {

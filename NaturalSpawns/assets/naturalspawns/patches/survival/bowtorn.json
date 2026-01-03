@@ -1,7 +1,7 @@
 [
 	{
 		"side": "Server",
-		"file": "game:entities/land/shiver.json",
+		"file": "game:entities/lore/shiver.json",
 		"op": "addmerge",
 		"path": "/attributes/additionalSpawnConstraints",
 		"value": {
